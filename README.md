@@ -2,10 +2,6 @@
 
 > **DenseNet121-based emotion classification framework that handles low-definition, noisy, and watermarked facial images — tackling real-world data quality challenges head-on.**
 
-[![Python](https://img.shields.io/badge/Python-3.x-blue)](https://python.org)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)](https://tensorflow.org)
-[![IEEE](https://img.shields.io/badge/Published-IEEE%20AISTS%202025-blue)](https://ieee.org)
-
 ---
 
 ## Overview
